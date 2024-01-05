@@ -39,12 +39,6 @@ This script is designed to assist with setting up cloud resources across differe
   
 ## Note and Contributions
 
-- The script is a starting point and may need customization based on your specific requirements.
-
-- Please review and adjust the functions and resource creation steps according to your needs.
-
-- Use the script responsibly and ensure you have the necessary permissions before executing cloud resource creation or destruction.
-
 - Feel free to raise a PR to contribute and enhance the script based on your use cloud case. 
 
 - If you encounter issues or have suggestions, open an issue on the repository.
