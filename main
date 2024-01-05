@@ -35,12 +35,11 @@ print_menu() {
 }
 
 az_start() {
-  az_select_sku
-  # setup_azure
-  # az_create_resource_group
-  # az_create_storage_account
-  # az_create_container
-  # az_create_file_share
+  setup_azure
+  az_create_resource_group
+  az_create_storage_account
+  az_create_container
+  az_create_file_share
 }
 
 # start menu and print_menu
