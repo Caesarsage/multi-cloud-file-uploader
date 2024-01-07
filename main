@@ -39,7 +39,8 @@ az_start() {
   az_create_resource_group
   az_create_storage_account
   az_create_container
-  az_create_file_share
+  az_upload_file
+  az_list_blobs
 }
 
 # start menu and print_menu
